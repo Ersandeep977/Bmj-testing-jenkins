@@ -15,6 +15,7 @@ pipeline {
             steps {
                 echo 'Hello job-3'            
                 echo "new code add"
+                echo " 3 th line add"
                 }
         }
     }
