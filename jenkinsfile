@@ -14,7 +14,7 @@ pipeline {
         stage('Job-3') {
             steps {
                 echo 'Hello job-3'            
-                echo "new code"
+                echo "new code add"
                 }
         }
     }
