@@ -1,3 +1,4 @@
+```
 #! /bin/bash
 sudo apt-get update 
 sudo apt-get install -y openjdk-11-jdk
@@ -7,3 +8,4 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]   https://pkg.jenki
 sudo apt-get update
 sudo apt-get install -y jenkins
 sudo systemctl start jenkins
+```
